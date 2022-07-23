@@ -1,0 +1,12 @@
+com\hyperstudio\InventoryAPI\InventoryCore.class
+com\hyperstudio\InventoryAPI\options\ActionEvent.class
+com\hyperstudio\InventoryAPI\utils\ItemAPI.class
+com\hyperstudio\InventoryAPI\utils\NMSHelper.class
+com\hyperstudio\InventoryAPI\options\InventoryOption.class
+com\hyperstudio\InventoryAPI\InventoryAPI.class
+com\hyperstudio\InventoryAPI\InventorySize.class
+com\hyperstudio\InventoryAPI\exceptions\CannotFoundInventoryCauseNameIsNull.class
+com\hyperstudio\InventoryAPI\options\actions\OpenInventory.class
+com\hyperstudio\InventoryAPI\ICore.class
+com\hyperstudio\InventoryAPI\Inventory.class
+com\hyperstudio\InventoryAPI\utils\FileBuilder.class
