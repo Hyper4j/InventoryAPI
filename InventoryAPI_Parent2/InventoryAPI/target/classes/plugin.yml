@@ -1,6 +1,0 @@
-name: InventoryAPI
-main: com.hyperstudio.InventoryAPI.Main
-version: 1.0.0
-author: Hyper4j
-description: Help for Using Java Developers
-depend: [CommandAPI]
